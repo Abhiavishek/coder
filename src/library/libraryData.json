@@ -1,0 +1,32 @@
+{
+    "libraries": [
+      {
+        "name": "Central Library",
+        "address": "123 Main Street, Cityville",
+        "services": {
+          "Morning": "9:00 AM - 12:00 PM",
+          "Afternoon": "1:00 PM - 5:00 PM",
+          "Evening": "6:00 PM - 9:00 PM"
+        }
+      },
+      {
+        "name": "Community Library",
+        "address": "456 Oak Avenue, Townsville",
+        "services": {
+          "Morning": "10:00 AM - 1:00 PM",
+          "Afternoon": "2:00 PM - 6:00 PM",
+          "Evening": "Closed"
+        }
+      },
+      {
+        "name": "Digital Library",
+        "address": "789 Elm Road, Tech City",
+        "services": {
+          "Morning": "8:00 AM - 11:00 AM",
+          "Afternoon": "12:00 PM - 4:00 PM",
+          "Evening": "5:00 PM - 8:00 PM"
+        }
+      }
+    ]
+  }
+  
